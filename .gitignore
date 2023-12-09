@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+.idea/
+node_modules/
+bower_components/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Other
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.vscode
